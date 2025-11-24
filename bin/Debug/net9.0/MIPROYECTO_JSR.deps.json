@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MIPROYECTO_JSR/1.0.0": {
+        "runtime": {
+          "MIPROYECTO_JSR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MIPROYECTO_JSR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

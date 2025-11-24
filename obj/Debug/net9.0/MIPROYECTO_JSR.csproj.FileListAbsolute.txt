@@ -1,0 +1,14 @@
+E:\MIPROYECTO_JSR\bin\Debug\net9.0\MIPROYECTO_JSR.exe
+E:\MIPROYECTO_JSR\bin\Debug\net9.0\MIPROYECTO_JSR.deps.json
+E:\MIPROYECTO_JSR\bin\Debug\net9.0\MIPROYECTO_JSR.runtimeconfig.json
+E:\MIPROYECTO_JSR\bin\Debug\net9.0\MIPROYECTO_JSR.dll
+E:\MIPROYECTO_JSR\bin\Debug\net9.0\MIPROYECTO_JSR.pdb
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\MIPROYECTO_JSR.GeneratedMSBuildEditorConfig.editorconfig
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\MIPROYECTO_JSR.AssemblyInfoInputs.cache
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\MIPROYECTO_JSR.AssemblyInfo.cs
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\MIPROYECTO_JSR.csproj.CoreCompileInputs.cache
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\MIPROYECTO_JSR.dll
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\refint\MIPROYECTO_JSR.dll
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\MIPROYECTO_JSR.pdb
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\MIPROYECTO_JSR.genruntimeconfig.cache
+E:\MIPROYECTO_JSR\obj\Debug\net9.0\ref\MIPROYECTO_JSR.dll
