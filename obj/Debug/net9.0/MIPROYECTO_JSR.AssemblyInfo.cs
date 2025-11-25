@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIPROYECTO_JSR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+316a118a6b55e05214556ec1f7ce8b1b11cbfe0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIPROYECTO_JSR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIPROYECTO_JSR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
