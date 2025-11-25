@@ -1,8 +1,11 @@
-﻿public class Matematicas
+﻿public static int MaximoComunDivisor(int a, int b)
 {
-    public static int Fibonacci(int n)
+    while (b != 0)
     {
-        if (n <= 1) return n;
-        return Fibonacci(n - 1) + Fibonacci(n - 2);
+        int temp = b;
+
+        b = a % b;
+        a = temp;
     }
+    return a;
 }
